@@ -13,3 +13,12 @@ created_at: "2025-05-28"
 * I decided that for the audio output I do not use the TRS or XLR connectors but of the bipolar connectors so that both types of peripheral can be connected like this: ![XLR / TRS 6mm bipolar conerger](https://github.com/user-attachments/assets/de2226ec-ffe9-4a9e-89d3-1a23ec07308a "XLR / TRS 6mm bipolar conerger")
 * I evaluated the use of an DAC and I came to the conclusion that it is a necco but I still have to understand which one and how to choose it.
 
+# DAY 2 - 29/06/2025
+*I continued by deciding which components to choose:
+    -Bluetooth processor / receiver-> ESP32-WROOM-32UE-N4
+    -Dac anchor to choose from even if I think I choose the PCM 1793 or the PCM1794
+        I have the doubt because I have to better understand how differential outputs (balanced) work with these chips.
+*I therefore started creating the schematic for the ESP chip:
+![Schematic Esp Chip](https://github.com/user-attachments/assets/be129c30-39ea-482e-b6cd-d7e4ccb6a5a4 "Schematic Esp Chip")
+*I also wired the audio outputs:
+![Schematic Audio outputs](https://github.com/user-attachments/assets/c5bb6e6c-6190-4684-87f2-7314bb4e24eb "Schematic Audio outputs")
