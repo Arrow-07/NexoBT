@@ -15,10 +15,24 @@ created_at: "2025-05-28"
 
 # DAY 2 - 29/06/2025
 * I continued by deciding which components to choose:
-    -Bluetooth processor / receiver-> ESP32-WROOM-32UE-N4
-    -Dac anchor to choose from even if I think I choose the PCM 1793 or the PCM1794
-        I have the doubt because I have to better understand how differential outputs (balanced) work with these chips.
+    - Bluetooth processor / receiver-> ESP32-WROOM-32UE-N4
+    - Dac anchor to choose from even if I think I choose the PCM 1793 or the PCM1794
+    - I have the doubt because I have to better understand how differential outputs (balanced) work with these chips.
 * I therefore started creating the schematic for the ESP chip:
 ![Schematic Esp Chip](https://github.com/user-attachments/assets/be129c30-39ea-482e-b6cd-d7e4ccb6a5a4 "Schematic Esp Chip")
 * I also wired the audio outputs:
 ![Schematic Audio outputs](https://github.com/user-attachments/assets/c5bb6e6c-6190-4684-87f2-7314bb4e24eb "Schematic Audio outputs")
+
+# DAY 3 - 04/07/2025
+Maybe I should continue this project more often I'm carrying out a little too little :/
+* I completely changed my mind on the dac to be used (thanks to the advice of @AAVOJ :D)
+* I use a Max98357a very simple to use and incorporate an amplifier that greatly simplifies the design and makes the PCB cleaner
+    - Use 2 chips one for each channel
+    - I prepared a selector for the gain that can be moved via a jumper
+    - to select the Visogna channel, set the SD_Mode iìcon Pin a resistance on the right channel while the accident must be high
+  ![Schematic MAX98357A](https://github.com/user-attachments/assets/11d15057-435d-42e2-ba1b-bf095407d9d4 "Schematic MAX98357A")
+* with the ESP32 processor I still have to understand how I go ahead I'm still stopped 
+* I am at a good point Yuppyyy I think the next few days I stop (I have an amnesty exam for the super important university :) ) but I promise it.
+* Today the state of the schematic is as follows:
+![Schematic_2025-07-04](https://github.com/user-attachments/assets/b6f8e213-8eab-4412-a293-efb934957c75)
+*I'm assuming a screen but I don't know :/
