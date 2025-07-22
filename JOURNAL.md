@@ -40,16 +40,16 @@ Maybe I should continue this project more often I'm carrying out a little too li
 # DAY 4 - 19/07/2025
 There is good news and bad news :)
 
-* I finished the schematic definitively Yuppie 🥳
-<img width="1190" height="845" alt="SCH_NEXOBT_BOARD_1-P1_2025-07-06" src="https://github.com/user-attachments/assets/59e15a65-4536-4feb-9e84-6ba6b0ab8a4e" />
-* I change complity the alimantion
+* I finished the schematic definitively (Yuppie 🥳)
+![Schematic_2025-07-19](https://github.com/user-attachments/assets/59e15a65-4536-4feb-9e84-6ba6b0ab8a4e)
+* I change complity the elettric supply
 * I included an OLED screen
 * I purchased the necessary hardwere (cards with Max98357a, ESP S3 Devboard, screen)
 * I started to create an Alpha version of the software.
 
 Here the good news ends:/ (and the bad ones begin)
-By creating the software version I planned the start screen,
-And the status of the LEDs but I also discovered that the ESP32S3 chip does not support the Classic Bluethooth but only the BLE and guess the A2DP protocol that is used to transfer laudio between the device and the card is not compatible with the Bluetooth Low Energy but only with the classic.
+
+By creating the software version I planned the start screen and the status of the LEDs but I also discovered that the ESP32S3 chip does not support the Classic Bluethooth but only the BLE and guess the A2DP protocol that is used to transfer laudio between the device and the card is not compatible with the Bluetooth Low Energy but only with the classic.
 
 Therefore:
 * I have not finished the schematic (not yuppie)
