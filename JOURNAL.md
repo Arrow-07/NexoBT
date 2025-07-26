@@ -73,4 +73,5 @@ Today is the turning day:
 * Here is the Nexo BT logo:
   ![logo_nexobt](https://github.com/user-attachments/assets/31247463-d115-4a54-9664-ffdcb5320900).
 * Here is a video of the animation for now is a prototype the one in which he is turning:
-  
+
+  https://github.com/user-attachments/assets/b4eb3508-a3bb-4f44-8b17-ce57ccbac2f7
