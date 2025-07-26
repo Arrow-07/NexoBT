@@ -59,3 +59,18 @@ Therefore:
 But hey my grandfather would say that "è inutile piangere sul latte versato" (it is useless to cry on the spilled milk) , you have to learn from errors so now I change chip, I refer the schematic, I order the right chip and I finish this project!
 
 (At least I hope ahaha)
+
+# DAY 5 - 26/07/25
+
+Today is the turning day:
+
+* I finished version 2.0 of the PCB (after soperto that lesp s3 was not good)
+![SCH_NEXOBT_BOARD_1-P1_2025-07-26](https://github.com/user-attachments/assets/adf9ee2b-3472-4611-8261-a7dcd3d94f91).
+* Now what should I do?
+  - Select the physical components
+  - Create the PCB
+* I am well under July 31st I will have finished Yuppiiee
+* Here is the Nexo BT logo:
+  ![logo_nexobt](https://github.com/user-attachments/assets/31247463-d115-4a54-9664-ffdcb5320900).
+* Here is a video of the animation for now is a prototype the one in which he is turning:
+  
