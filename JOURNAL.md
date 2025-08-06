@@ -71,7 +71,18 @@ Today is the turning day:
   - Create the PCB
 * I am well under July 31st I will have finished Yuppiiee
 * Here is the Nexo BT logo:
-  ![logo_nexobt](https://github.com/user-attachments/assets/31247463-d115-4a54-9664-ffdcb5320900).
+  ![logo_nexobt](https://github.com/user-attachments/assets/31247463-d115-4a54-9664-ffdcb5320900)
 * Here is a video of the animation for now is a prototype the one in which he is turning:
 
   https://github.com/user-attachments/assets/b4eb3508-a3bb-4f44-8b17-ce57ccbac2f7
+
+# DAY 6 - 6/08/25
+Hi, how long has passed since the last update (I was in Rome for the young man's jubilee). But I went back to work on the schematic: 
+* I suspended the MAX98357 with a PCM5102AP
+* added negative voltage generator and two drivers that transform the signal into two counter -phase audio signals.
+![Schematich 06-08-25](https://github.com/user-attachments/assets/4823440a-5964-481c-afe1-efd272693eb5)
+![Schematich2 06-08-25](https://github.com/user-attachments/assets/55aab46b-aa77-48a4-a717-7992b12338c9)
+* The schematic has changed a lot:
+      -  I started positioning the components on the PCB and also started connecting the very first cables.
+![PCB 06-08-25](https://github.com/user-attachments/assets/d44f8234-54a2-4e23-970d-52f1ea8b4215)
+
