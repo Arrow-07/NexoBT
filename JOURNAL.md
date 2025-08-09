@@ -4,6 +4,16 @@ author: "Giacomo Rossi - @giacomo"
 description: "Bluetooth receiver based on an ESP, fitted on my own PCB design."
 created_at: "2025-05-28"
 ---
+# Preamble:
+
+I started this project for Highway but I didn't have time to finish it.
+
+It could be noted how scarce updates this is because I usually work for projects in your free time for a few minutes and therefore groups small progress in a single more full -bodied update
+For the same reason, the hours I spent are approximate but to say socially no less than 36 hours spent on this project.
+
+I hope that this does not cost me the exclusion from the Grant (it was a too tiring project to carry out so as not to present it anyway even if I know of these critical issues)
+
+----------------------------------------------------------
 
 # DAY 1 - 19/06/2025
 * Today I started creating the PCB, more specifically the power supply:
@@ -86,3 +96,12 @@ Hi, how long has passed since the last update (I was in Rome for the young man's
       -  I started positioning the components on the PCB and also started connecting the very first cables.
 ![PCB 06-08-25](https://github.com/user-attachments/assets/d44f8234-54a2-4e23-970d-52f1ea8b4215)
 
+# DAY 7 - 9/08/25
+Here we are at the end 
+Yesterday I finished drawing the PCB and today I nominated it for a Grounded voucher.
+* I finished connecting the components
+* I designed the mass plan and the 3.3v (A&B) labor pine pines
+* I designed the polygons for the power line and checked that everything was correct
+* I checked the price 136.60 euros wow
+
+I Think That I SPEND SOMTHING LIKE 36H ON THIS PROJECT.
