@@ -15,7 +15,7 @@ I hope that this does not cost me the exclusion from the Grant (it was a too tir
 
 ----------------------------------------------------------
 
-# DAY 1 - 19/06/2025
+# DAY 1 - 19/06/2025 6H
 * Today I started creating the PCB, more specifically the power supply:
     It will be a diet with 2 voltages, one at 5v atraverse a connector to Barrell Jack, an interruption a status LED and several filter capacitors, the other at     3.3v useful for the ESP obtained at the time the use of an AMS 1117 - 3.3.
 ![Schematic with power supply](https://github.com/user-attachments/assets/98bbded4-5f5f-49db-a1bf-b35c552be6ee "power supply")
@@ -23,7 +23,7 @@ I hope that this does not cost me the exclusion from the Grant (it was a too tir
 * I decided that for the audio output I do not use the TRS or XLR connectors but of the bipolar connectors so that both types of peripheral can be connected like this: ![XLR / TRS 6mm bipolar conerger](https://github.com/user-attachments/assets/de2226ec-ffe9-4a9e-89d3-1a23ec07308a "XLR / TRS 6mm bipolar conerger")
 * I evaluated the use of an DAC and I came to the conclusion that it is a necco but I still have to understand which one and how to choose it.
 
-# DAY 2 - 29/06/2025
+# DAY 2 - 29/06/2025 6H
 * I continued by deciding which components to choose:
     - Bluetooth processor / receiver-> ESP32-WROOM-32UE-N4
     - Dac anchor to choose from even if I think I choose the PCM 1793 or the PCM1794
@@ -33,7 +33,7 @@ I hope that this does not cost me the exclusion from the Grant (it was a too tir
 * I also wired the audio outputs:
 ![Schematic Audio outputs](https://github.com/user-attachments/assets/c5bb6e6c-6190-4684-87f2-7314bb4e24eb "Schematic Audio outputs")
 
-# DAY 3 - 04/07/2025
+# DAY 3 - 04/07/2025 6H
 Maybe I should continue this project more often I'm carrying out a little too little :/
 * I completely changed my mind on the dac to be used (thanks to the advice of @AAVOJ :D)
 * I use a Max98357a very simple to use and incorporate an amplifier that greatly simplifies the design and makes the PCB cleaner
@@ -47,7 +47,7 @@ Maybe I should continue this project more often I'm carrying out a little too li
 ![Schematic_2025-07-04](https://github.com/user-attachments/assets/b6f8e213-8eab-4412-a293-efb934957c75)
 * I'm assuming a screen but I don't know :/
 
-# DAY 4 - 19/07/2025
+# DAY 4 - 19/07/2025 6H
 There is good news and bad news :)
 
 * I finished the schematic definitively (Yuppie 🥳)
@@ -70,7 +70,7 @@ But hey my grandfather would say that "è inutile piangere sul latte versato" (i
 
 (At least I hope ahaha)
 
-# DAY 5 - 26/07/25
+# DAY 5 - 26/07/25 3H
 
 Today is the turning day:
 
@@ -86,7 +86,7 @@ Today is the turning day:
 
   https://github.com/user-attachments/assets/b4eb3508-a3bb-4f44-8b17-ce57ccbac2f7
 
-# DAY 6 - 6/08/25
+# DAY 6 - 6/08/25 6H
 Hi, how long has passed since the last update (I was in Rome for the young man's jubilee). But I went back to work on the schematic: 
 * I suspended the MAX98357 with a PCM5102AP
 * added negative voltage generator and two drivers that transform the signal into two counter -phase audio signals.
@@ -96,7 +96,7 @@ Hi, how long has passed since the last update (I was in Rome for the young man's
       -  I started positioning the components on the PCB and also started connecting the very first cables.
 ![PCB 06-08-25](https://github.com/user-attachments/assets/d44f8234-54a2-4e23-970d-52f1ea8b4215)
 
-# DAY 7 - 9/08/25
+# DAY 7 - 9/08/25 3H
 Here we are at the end 
 Yesterday I finished drawing the PCB and today I nominated it for a Grounded voucher.
 * I finished connecting the components
