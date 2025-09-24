@@ -105,3 +105,12 @@ Yesterday I finished drawing the PCB and today I nominated it for a Grounded vou
 * I checked the price 136.60 euros wow
 
 I Think That I SPEND SOMTHING LIKE 36H ON THIS PROJECT.
+
+
+# DAY 8 - 24/09/25 10H a lot i know)
+here we goooooooiooo!
+As soon as I finished creating the source code, everything works !!
+
+Now only 3D custody is missing
+
+I changed the library to create a function to view the name! But it's not a problem if you want I'm happy to pass it by write me
