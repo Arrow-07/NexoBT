@@ -23,9 +23,9 @@ After that the signal is sent to the XLR connector (in this case hybrid because 
 * protection from static electric discharges on XLR outputs
 
 # Software code
-The software is still being developed but it will be made available on Github:
-I already develop the initial animation for the display (check on juornal.md )
-
+The software is available on Github in code file
+I edit one of lybriry that i use.
+Also I set the partition scheme to HUGE APP.
 ----------------------------------------------------
 
 #Render - and photos:
